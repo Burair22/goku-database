@@ -21,13 +21,13 @@ main {
     text-align: center;
 }
 
-.goku-info img {
+.goku img {
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s ease-in-out;
 }
 
-.goku-info img:hover {
+.goku img:hover {
     transform: scale(1.1);
 }
 
